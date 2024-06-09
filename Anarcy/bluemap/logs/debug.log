@@ -1,0 +1,65 @@
+[2024-05-26 14:50:26][INFO] Loading resources...
+[2024-05-26 14:50:26][FINE] Loading resources from: /home/server/Anarcy/world/datapacks/bukkit ...
+[2024-05-26 14:50:26][FINE] Loading resources from: bluemap/resourceExtensions.zip ...
+[2024-05-26 14:50:26][FINE] Loading resources from: bluemap/minecraft-client-1.20.3.jar ...
+[2024-05-26 14:50:26][INFO] Loading textures...
+[2024-05-26 14:50:26][FINE] Loading textures from: /home/server/Anarcy/world/datapacks/bukkit ...
+[2024-05-26 14:50:26][FINE] Loading textures from: bluemap/resourceExtensions.zip ...
+[2024-05-26 14:50:26][FINE] Loading textures from: bluemap/minecraft-client-1.20.3.jar ...
+[2024-05-26 14:50:27][INFO] Baking resources...
+[2024-05-26 14:50:27][INFO] Resources loaded.
+[2024-05-26 14:50:27][FINE] Loading world id for '/home/server/Anarcy/world_the_end/DIM1'...
+[2024-05-26 14:50:27][INFO] Loading world '8c803415-edf4-4450-8892-464c4ef48f82' (/home/server/Anarcy/world_the_end/DIM1)...
+[2024-05-26 14:50:27][INFO] Initializing Storage: 'file' (Type: FILE)
+[2024-05-26 14:50:27][INFO] Loading map 'world_the_end'...
+[2024-05-26 14:50:27][FINE] Loading world id for '/home/server/Anarcy/world'...
+[2024-05-26 14:50:27][INFO] Loading world '6aab2a49-146c-479a-9d08-3443e6e8d3f0' (/home/server/Anarcy/world)...
+[2024-05-26 14:50:27][INFO] Loading map 'world'...
+[2024-05-26 14:50:27][FINE] Loading world id for '/home/server/Anarcy/world_nether/DIM-1'...
+[2024-05-26 14:50:27][INFO] Loading world '77e13e29-ab5a-488f-977f-aae650967492' (/home/server/Anarcy/world_nether/DIM-1)...
+[2024-05-26 14:50:27][INFO] Loading map 'world_nether'...
+[2024-05-26 14:50:27][INFO] WebServer bound to all network interfaces on port 8100
+[2024-05-26 14:50:27][INFO] WebServer started.
+[2024-05-26 14:50:27][INFO] Loaded!
+[2024-05-31 10:21:31][FINE] Failed to send Metrics-Report: java.net.NoRouteToHostException: No route to host
+[2024-05-31 10:51:31][FINE] Failed to send Metrics-Report: java.net.NoRouteToHostException: No route to host
+[2024-05-31 11:21:50][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 11:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 12:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 12:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 13:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 13:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 14:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 14:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 15:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 15:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 16:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 16:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 17:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 17:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 18:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 18:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 19:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 19:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 20:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 20:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 21:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 21:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 22:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 22:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 23:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-05-31 23:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 00:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 00:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 01:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 01:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 02:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 02:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 03:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 03:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 04:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 04:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 05:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 05:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 06:21:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
+[2024-06-01 06:51:47][FINE] Failed to send Metrics-Report: java.net.UnknownHostException: metrics.bluecolored.de
